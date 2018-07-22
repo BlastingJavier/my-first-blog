@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\monst\\Anaconda3\\envs\\Django-Web\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false
+}
